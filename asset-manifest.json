@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/whether-app/static/css/main.4ef0d7a0.css",
+    "main.js": "/whether-app/static/js/main.db7aca7e.js",
+    "static/media/sunset.jpg": "/whether-app/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/whether-app/index.html",
+    "main.4ef0d7a0.css.map": "/whether-app/static/css/main.4ef0d7a0.css.map",
+    "main.db7aca7e.js.map": "/whether-app/static/js/main.db7aca7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef0d7a0.css",
+    "static/js/main.db7aca7e.js"
+  ]
+}
